@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a8639d3-ac7f-4d4e-8b2d-7fe62df53ccb" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/nets/nets.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/demo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/config.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/gameAPI/game.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="97ed77cc-6a9d-43f2-8287-bdfcc9ed86a5" />
+  <component name="ProjectId" id="1bOAZfKj0L3rEXd7TooG1EVFMoA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pacman_DQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pacman_DQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pacman_DQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a8639d3-ac7f-4d4e-8b2d-7fe62df53ccb" name="默认更改列表" comment="" />
+      <created>1588492822845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588492822845</updated>
+      <workItem from="1588492827643" duration="1054000" />
+      <workItem from="1588494117492" duration="464000" />
+      <workItem from="1588664406247" duration="8000" />
+      <workItem from="1588665135035" duration="2033000" />
+      <workItem from="1588683868960" duration="109000" />
+      <workItem from="1588754456460" duration="172000" />
+      <workItem from="1588756683352" duration="92000" />
+      <workItem from="1588756839258" duration="63000" />
+      <workItem from="1588773670191" duration="493000" />
+      <workItem from="1588774173046" duration="1255000" />
+      <workItem from="1588840401916" duration="83000" />
+      <workItem from="1588855859176" duration="466000" />
+      <workItem from="1588856768061" duration="77000" />
+      <workItem from="1588856980406" duration="125000" />
+      <workItem from="1588857123675" duration="2215000" />
+      <workItem from="1588897389912" duration="633000" />
+      <workItem from="1588901912208" duration="277000" />
+      <workItem from="1588921554584" duration="1239000" />
+      <workItem from="1588923395799" duration="672000" />
+      <workItem from="1588925065805" duration="1365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588857543998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588857543998" />
+    <state x="503" y="120" key="FileChooserDialogImpl" timestamp="1588902187816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="120" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588902187816" />
+    <state width="1470" height="195" key="GridCell.Tab.0.bottom" timestamp="1588927521997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588927521997" />
+    <state width="1470" height="195" key="GridCell.Tab.0.center" timestamp="1588927521997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588927521997" />
+    <state width="1470" height="195" key="GridCell.Tab.0.left" timestamp="1588927521997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588927521997" />
+    <state width="1470" height="195" key="GridCell.Tab.0.right" timestamp="1588927521997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588927521997" />
+    <state x="202" y="0" key="SettingsEditor" timestamp="1588774162785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588774162785" />
+    <state x="417" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1588901913703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="206" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588901913703" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588773717679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588773717679" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pacman_DQN$train.coverage" NAME="train Coverage Results" MODIFIED="1588902094018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pacman_DQN$demo.coverage" NAME="demo Coverage Results" MODIFIED="1588927220072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pacman_DQN$config.coverage" NAME="config Coverage Results" MODIFIED="1588855912713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
